@@ -1,0 +1,9 @@
+in_channels: 22
+seq_len: 1000
+num_classes: 4
+hidden_dim: 64
+latent_dim: 64
+num_bands: 5
+
+beta: 1e-5
+noise_scale: 0.02

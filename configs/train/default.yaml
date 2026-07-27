@@ -1,0 +1,5 @@
+epochs: 100
+lr: 1e-3
+weight_decay: 1e-4
+device: cuda
+save_dir: ./outputs

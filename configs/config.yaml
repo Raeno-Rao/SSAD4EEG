@@ -1,0 +1,7 @@
+defaults:
+  - model: faib
+  - data: bciiv2a
+  - train: default
+  - experiment: loso_subject1
+
+seed: 42

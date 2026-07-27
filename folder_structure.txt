@@ -1,0 +1,17 @@
+EEGDM-main/
+├─ main.py
+├─ conf/
+│  ├─ config.yaml
+│  ├─ pretrain_mi.yaml
+│  ├─ finetune_mi.yaml
+│  ├─ report_mi.yaml
+│  ├─ trainer/
+│  │  ├─ gpu_pretrain.yaml
+│  │  └─ gpu_finetune.yaml
+│  ├─ model/
+│  │  ├─ diffusion_mi.yaml
+│  │  └─ classifier_mi.yaml
+│  ├─ data/
+│  │  └─ bci_iv2a.yaml
+│  └─ split/
+│     └─ loso_s1.yaml
